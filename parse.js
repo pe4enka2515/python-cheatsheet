@@ -106,7 +106,7 @@ const INDEX =
   '<li><strong>Ctrl+F / ⌘F is usually sufficient.</strong></li>\n' +
   '<li><strong>Searching <code class="python hljs"><span class="hljs-string">\'#&lt;title&gt;\'</span></code> will limit the search to the titles.</strong></li>\n';
 
-
+//It's for second commit
 const DIAGRAM_1_A =
   '+------------------+------------+------------+------------+\n' +
   '|                  |  Iterable  | Collection |  Sequence  |\n' +
