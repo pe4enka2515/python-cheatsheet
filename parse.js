@@ -207,6 +207,8 @@ const DIAGRAM_6_A =
   '|            |  Iterable  | Collection |  Sequence  | abc.Sequence |\n' +
   '+------------+------------+------------+------------+--------------+\n';
 
+const randomForCommit = 2;
+
 const DIAGRAM_6_B =
   '┏━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━┯━━━━━━━━━━━━━━┓\n' +
   '┃            │  Iterable  │ Collection │  Sequence  │ abc.Sequence ┃\n' +
