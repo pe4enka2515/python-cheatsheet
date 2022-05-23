@@ -48,7 +48,7 @@ List
 sum_of_elements  = sum(<collection>)
 elementwise_sum  = [sum(pair) for pair in zip(list_a, list_b)]
 sorted_by_second = sorted(<collection>, key=lambda el: el[1])
-sorted_by_both   = sorted(<collection>, key=lambda el: (el[1], el[0]))
+sorted_by_both   = sorted(<collection>, key=lambda el: (el[1], el[0]))#Commit-3
 flatter_list     = list(itertools.chain.from_iterable(<list>))
 product_of_elems = functools.reduce(lambda out, el: out * el, <collection>)
 list_of_chars    = list(<str>)
